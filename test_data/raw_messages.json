@@ -1,0 +1,12 @@
+[
+    {
+        "name": "alice",
+        "keyword": "outgoing",
+        "message": "Your match is Bob, who is outgoing"
+    },
+    {
+        "name": "bob",
+        "keyword": "sexy",
+        "message": "Your match is Alice, who is sexy"
+    }
+]

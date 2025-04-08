@@ -1,0 +1,15 @@
+[
+      {
+        "encryptedMessage": "97cd3dac074bff6388ac2d54bafc6494ad9329ff0e6107b9902dc4f698f0ac865bd775f04185517b8ba6d5dc99846342a2c52e7951efe7a58c91b5e3f67e34f98cf9c23106",
+
+"iv": "6adb9a091eab47bf409ddc3d82d035ef",
+"recipient": "john",
+"salt": "e9f9990425dccf2dfa28191166c09356"
+      },
+      {
+        "recipient": "name2",
+        "salt": "hex_string",
+        "iv": "hex_string",
+        "encryptedMessage": "hex_string"
+      }
+    ]
