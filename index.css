@@ -47,6 +47,7 @@ button:hover {
     padding: 15px;
     border-radius: 4px;
     min-height: 100px;
+    white-space: pre-line; 
 }
 .hidden {
     display: none;
